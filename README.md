@@ -24,6 +24,6 @@ The string manipulation and matching algorithms are written in this php file whi
 
 During the whole process, user will not experience a page navigation and will be using only 2 controls (dropdown and textbox) in total, which gives a better user experience.
 
-For further development:
-  Many other filters can be added to narrow down the Hint-list like "Donot-Include".
+For further development:<br/>
+  Many other filters can be added to narrow down the Hint-list like "Donot-Include".<br/>
   A better wordlist could be uploaded
